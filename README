@@ -1,6 +1,6 @@
 the patches in the patches directory have already been applied; they're just in there so i know what patches i used
 
-#installation
+## installation
 
 sudo make clean install 
 echo "exec dwm" >> ~/.xinitrc
