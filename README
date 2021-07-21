@@ -1,5 +1,7 @@
 the patches in the patches directory have already been applied; they're just in there so i know what patches i used
 
+this build assumes you have st. if have a different terminal, replace "st" in config.def.h with whatever terminal you prefer to use
+
 ## installation
 
 sudo make clean install 
